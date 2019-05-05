@@ -1,0 +1,41 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "includePath": [
+                "${workspaceFolder}",
+                "D:/Software/mingw/mingw64/include",
+                "D:/Software/mingw/mingw64/opt/include",
+                "D:/Software/mingw/mingw64/opt/lib/libffi-3.2.1/include",
+                "D:/Software/mingw/mingw64/x86_64-w64-mingw32/include",
+                "D:/Software/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+                "D:/Software/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+                "D:/Software/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/install-tools/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "__GNUC__=7",
+                "__cdecl=__attribute__((__cdecl__))"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:/Software/mingw/mingw64/include",
+                    "D:/Software/mingw/mingw64/opt/include",
+                    "D:/Software/mingw/mingw64/opt/lib/libffi-3.2.1/include",
+                    "D:/Software/mingw/mingw64/x86_64-w64-mingw32/include",
+                    "D:/Software/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+                    "D:/Software/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+                    "D:/Software/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/install-tools/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
